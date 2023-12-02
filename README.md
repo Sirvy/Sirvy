@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋, I am Bobby
 
-<!--
-**Sirvy/Sirvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Web Engineering student at FIT CTU
+- BSc. (Bc.) in Software Engineering
+- Software Engineer at [Profinit.eu](https://profinit.eu/)
+- Web Developer
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- TypeScript, JavaScript, Java, Python, PHP, C++
+- Spring Boot, Play FW, Symfony, Nette
+- React, Next.js, Vue
+- SQL, MongoDB, ElasticSearch
