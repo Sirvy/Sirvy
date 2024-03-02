@@ -14,7 +14,7 @@
 
 - TypeScript, JavaScript, Java, Python, PHP, C++
   
-- Spring Boot, Play FW, Symfony, Nette
+- Spring Boot, Play FW, Symfony, Nette, Node.js
 
 - React, Next.js, Vue
   
