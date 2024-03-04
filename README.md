@@ -10,7 +10,7 @@
   
 - Web Developer
 
-- A 🇨🇿 and 🇻🇳 hybrid
+- 🇨🇿 and 🇻🇳 hybrid
 
 ### Skills 📜
 
