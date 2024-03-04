@@ -10,6 +10,8 @@
   
 - Web Developer
 
+- A 🇨🇿 and 🇻🇳 hybrid
+
 ### Skills 📜
 
 - TypeScript, JavaScript, Java, Python, PHP, C++
