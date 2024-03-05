@@ -16,12 +16,12 @@
 
 - TypeScript, JavaScript, Java, Python, PHP, C++
   
-- Spring Boot, Play FW, Symfony, Nette, Node.js
+- Spring Boot, Play FW, Symfony, Nette, Node.js, Deno
 
 - React, Next.js, Vue
   
 - SQL, MongoDB, ElasticSearch
 
-- DevOps, CI/CD, Docker, Kubernetes, Shell scripting
+- *DevOps, CI/CD, Docker, Kubernetes, Shell scripting, Cloud and distributed computing*
 
-- Web and data mining, NLP, Multimedia content analysis
+- *Web and data mining, NLP, Multimedia content analysis*
