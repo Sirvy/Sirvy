@@ -21,3 +21,7 @@
 - React, Next.js, Vue
   
 - SQL, MongoDB, ElasticSearch
+
+- DevOps, CI/CD, Docker, Kubernetes, Shell scripting
+
+- Web and data mining, NLP, Multimedia content analysis
