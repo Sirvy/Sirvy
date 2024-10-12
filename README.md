@@ -1,4 +1,4 @@
-## Hi there 👋, I am Bobby
+## Hi there 👋, I am Sirvy
 
 ### whoami 👦
 
