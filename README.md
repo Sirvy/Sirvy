@@ -14,7 +14,7 @@
 
 ### Skills 📜
 
-- TypeScript, JavaScript, Java, Python, PHP, C++
+- TypeScript, JavaScript, Java, Python, PHP, C++, C#
   
 - Spring Boot, Play FW, Symfony, Nette, Node.js, Deno
 
