@@ -2,9 +2,7 @@
 
 ### whoami 👦
 
-- Web Engineering student at FIT CTU
-  
-- BSc. (Bc.) in Software Engineering
+- MSc (Ing.) in Web Engineering, BSc (Bc.) in Software Engineering
   
 - Software Engineer at [Profinit.eu](https://profinit.eu/)
   
