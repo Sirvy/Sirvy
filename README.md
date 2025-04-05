@@ -2,7 +2,7 @@
 
 ### whoami 👦
 
-- MSc (Ing.) in Web Engineering, BSc (Bc.) in Software Engineering
+- Web and Software Engineer from CTU in Prague
 
 - Software Engineer at [Česká spořitelna](https://www.csas.cz/) Bank
   
