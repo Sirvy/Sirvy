@@ -3,8 +3,10 @@
 ### whoami 👦
 
 - MSc (Ing.) in Web Engineering, BSc (Bc.) in Software Engineering
+
+- Software Engineer at [Česká spořitelna](https://www.csas.cz/) Bank
   
-- Software Engineer at [Profinit.eu](https://profinit.eu/)
+- Consultant at [Profinit.eu](https://profinit.eu/)
   
 - Web Developer
 
